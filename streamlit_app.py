@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 pacarleedohyun")
+st.title("🩰 pacar sunjae")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+" ayo culik sunjae dan lari! head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
