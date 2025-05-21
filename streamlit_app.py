@@ -6,7 +6,7 @@ st.write(
 )
 st.image("IMG_20250414_210659_653.webp")
 
-st.title("math")
+st.title("Aplikasi Sederhana")
 st.header("Aplikasi Mengecek Nilai Genap/Ganjil")
 angka = st.number_input("Tulis Sebuah Angka:", value=0, step=1)
 
